@@ -1,0 +1,199 @@
+%Created on Overleaf
+% NL Resume
+%----------------------------
+
+\documentclass[11pt,a4paper,roman]{moderncv}
+\moderncvstyle{banking}  
+\moderncvcolor{blue}  
+\nopagenumbers{}    
+
+% character encoding
+\usepackage[utf8]{inputenc}
+\usepackage{fontawesome}
+\usepackage{tabularx}
+\usepackage{ragged2e}
+
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+\usepackage{multicol}
+\usepackage{import}
+
+% personal data
+\name{NHI X}{LUU}
+\address{\small Silver Spring, MD 20906}{}{}
+
+\vspace*{5mm}  
+\newcommand*{\customcventry}[7][.25em]{
+  \begin{tabular}{@{}l} 
+    {\bfseries #4}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     {\bfseries #5}
+  \end{tabular} \\
+  \begin{tabular}{@{}l} 
+    {\itshape #3}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     {\itshape #2}
+  \end{tabular}
+  \ifx&#7&%
+  \else{\\%
+    \begin{minipage}{\maincolumnwidth}%
+      \small#7%
+    \end{minipage}}\fi%
+  \par\addvspace{#1}}
+  
+\newcommand*{\researchentry}[7][.25em]{
+  \begin{tabular}{@{}l} 
+    {\bfseries #4}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     {\bfseries #5}
+  \end{tabular} \\
+  \begin{tabular}{@{}l} 
+    {\upshape #3}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     {\itshape #2}
+  \end{tabular}
+  \ifx&#7&%
+  \else{\\%
+    \begin{minipage}{\maincolumnwidth}%
+      \small#7%
+    \end{minipage}}\fi%
+  \par\addvspace{#1}}
+
+\newcommand*{\cvref}[3][.25em]{
+%   \vfill\noindent
+  \begin{tabular}{@{}l} 
+    {\bfseries #2}
+  \end{tabular}
+  \ifx&#3
+  \else{\\%
+    \begin{minipage}{\maincolumnwidth}%
+      \small#3%
+    \end{minipage}}\fi%
+  \par\addvspace{#1}}
+  
+
+\setlength{\tabcolsep}{12pt}
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%-----       resume       ---------------------------------------------------------
+\vspace*{-19mm}
+\makecvtitle
+\vspace*{-15mm}
+\hspace{1cm}
+\begin{center}
+\begin{tabular}{ c c c c }
+ \faGlobe\enspace mysite.me & \faEnvelopeO\enspace nluu1@umbc.edu & \faGithub\enspace\href{https://github.com/nluu1}{nluu1} & \faMobile\enspace (240) 584-1439\\  
+\end{tabular}
+\end{center}
+\vspace*{-3mm}
+\section{EDUCATION}
+
+{\customcventry{Expected: Fall 2023}{B.S., Biotech (TLST) - Bioinformatics; GPA: 4.0}{UMBC at the Universities at Shady Grove}{Rockville, MD}{}{}
+}
+
+{\customcventry{Jan 2018 - May 2019}{Credits: 32}{University at Maryland - College Park}{College Park, MD}{}{}}
+
+{\customcventry{Dec 2017}{A.S., Life Sciences; GPA: 3.83}{Montgomery College}{Rockville, MD}{}{}
+}
+  
+% \section{MOOC}
+% {\begin{itemize}
+%     \item (in progress)
+%     \item (in progress)
+%     \item (in progress)
+%     \item (in progress)
+%   \end{itemize}
+% } 
+  
+\section{TECHNICAL SKILLS \& KNOWLEDGE AREAS}
+{\begin{itemize}
+    \item \textbf{Laboratory}: Immunofluorescence, RT-PCR, Column chromatography, Cells culturing/fixation, Spheroids culture, Western Blot, other staining techniques ( H&E, ORO, gram stain)
+    \item \textbf{Programming Language}: \textbf{Python} [intermediate] ,\textbf{R} [beginner] for descriptive statistics; Unix Shell
+    \item \textbf{Software}: ImageJ, MS Office, BLAST (beginner), Zeiss Zen, ImagePro
+    \item \textbf{Language}: Vietnamese (native spaker)
+  \end{itemize}
+}
+
+  \section{RESEARCH EXPERIENCE}
+{\researchentry{07/2021- Present}{\textbf{Research Assistant} – Wound Healing Model Research}{Montgomery College – Biology Department}{Rockville, MD}{}
+{\begin{itemize}
+  \item Establish optimal conditions for spheroid co-cultures in 3D to observe their interactions and patterns
+  \item Perform tissue culture, scratch wound assay, immunofluorescence, H&E staining on different cell lines for image and statistical analysis
+  \item Developed and optimized lab protocols for future research projects on spheroids and viability with drugs
+\end{itemize}
+}
+}
+\vspace{-\baselineskip}
+\addvspace{0.1cm}
+{\researchentry{01/2017- 12/2017}{\textbf{Student Assistant} – Novel Solutions to Wound Healing Project}{}{}{}
+{\begin{itemize}
+  \item Independently presented a 20-page Literature Review Presentation on the \textit{ Development of a Full-Thickness Human Skin Equivalent Derived from TERT-Immortalized Keratinocytes and Fibroblasts}
+  \item Pioneered ideas to a published literature review on Springer: \textit {Skin wound Healing: Refractory Wounds and Novel Solutions} (first online 24 May 2018)
+\end{itemize}
+}
+}
+\section{ADDITIONAL EXPERIENCE}
+{\researchentry{04/2022- Present}{Student Contributor - Extra Curricular}{Universities at Shady Grove}{Rockville, MD}{}
+{\begin{itemize}
+  \item Conduct descriptive statistics on Cardiology dataset using R/Python
+  \item Update and monitor version controls of scripts on GitHub project repositories
+\end{itemize}
+}
+}
+{\researchentry{07/2018- 02/2019}{Graphic Design Chair – Societies of Asian Scientists and Engineers}{University of Maryland}{College Park, MD}{}
+{\begin{itemize}
+ \item Collaborated and hosted SASE Northeast Regional Conference, providing opportunities to 500+ attendees to interact and recruited by sponsoring companies (CIA, U.S. Army, Navy, P&G, Google)
+ \end{itemize}
+}
+}
+{\researchentry{09/2016- 12/2017}{Chemistry/Biology Peer Tutor – Ackerman Learning Center}{Montgomery College}{Rockville, MD}{}
+{\begin{itemize}
+  \item Tutored, assisted students/peers on General/Organic Chemistry, and Biology materials
+ \end{itemize}
+}
+}
+\section{MEMBERSHIPS}
+{\begin{itemize}
+    \item {Biotech Club - UMBC Shady Grove} \hfill {\itshape 02/2022 - Present}
+    \item {Societies of Asian Scientists and Engineers (UMD Chapter)} \hfill{\itshape 07/2018- 02/2019}
+  \end{itemize}
+}
+
+\setlength{\columnwidth}{\textwidth}
+\addtolength{\columnwidth}{-\columnsep}
+\setlength{\columnwidth}{.5\columnwidth}
+
+\setlength{\hintscolumnwidth}{0.175\columnwidth}
+\setlength{\separatorcolumnwidth}{0.025\columnwidth}
+%
+\renewcommand*{\recomputecvbodylengths}{%
+  % body lengths
+  \setlength{\maincolumnwidth}{\columnwidth-\leftskip-\rightskip-\separatorcolumnwidth-\hintscolumnwidth}%
+  \setlength{\listitemcolumnwidth}{\maincolumnwidth-\listitemsymbolwidth}%
+  \setlength{\doubleitemcolumnwidth}{\maincolumnwidth-\hintscolumnwidth-\separatorcolumnwidth-\separatorcolumnwidth}%
+  \setlength{\doubleitemcolumnwidth}{0.5\doubleitemcolumnwidth}%
+  \setlength{\listdoubleitemcolumnwidth}{\maincolumnwidth-\listitemsymbolwidth-\separatorcolumnwidth-\listitemsymbolwidth}%
+  \setlength{\listdoubleitemcolumnwidth}{0.5\listdoubleitemcolumnwidth}%
+  % regular lengths
+  \setlength{\parskip}{0pt}}
+\recomputecvbodylengths
+
+
+% \nocite{*}
+% \bibliographystyle{plain}
+% \bibliography{publications}                        
+%-----       letter       ---------------------------------------------------------
+
+\end{document}
