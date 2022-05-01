@@ -1,12 +1,21 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/98994882/166165720-f10af6fc-d441-4b8c-afb5-0ad7b472d781.gif" alt="Sublime's custom image"/>
+</p>
+
 <h1 align="center">Hello 👋, I'm Nhi Luu</h1>
 <h3 align="center">Molecular Biology RA / Self-learning Bioinformatics</h3>
 <h3 align="center">"Like an ant, I'm stronger than I look and I can definitely get the job done!"</h3>
+
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/1wyGSnltzOEAAAAC/smirk-wink.gif">
+
 
 - 🔭 I’m currently working on: [Descriptive statistics on Biological dataset with R](https://github.com/PhyloGrok/AnalyzeBloodwork)
 
 - 🌱 I’m currently learning: **Python, R**
 
 - 👯 I’m looking to collaborate on: **Genomic sequencing; BLAST; Machine Learning model**
+
+- 👨‍💻 All of my projects are available at [https://nhiluu.vercel.app/](https://nhiluu.vercel.app/)
 
 - 📫 How to reach me: **nluu1@umbc.edu**
 
