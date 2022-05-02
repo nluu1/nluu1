@@ -6,13 +6,14 @@
 <h3 align="center">Molecular Biology RA / Self-learning Bioinformatics</h3>
 <h3 align="center">"Like an ant, I'm stronger than I look and I can definitely get the job done!"</h3>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/1wyGSnltzOEAAAAC/smirk-wink.gif">
 
 - 🔭 I’m currently working on: [Descriptive statistics on Biological dataset with R](https://github.com/PhyloGrok/AnalyzeBloodwork)
 
 - 🌱 I’m currently learning: **Python, R**
 
 - 👯 I’m looking to collaborate on: **Genomic sequencing; BLAST; Machine Learning model**
+
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/1wyGSnltzOEAAAAC/smirk-wink.gif">
 
 - 👨‍💻 All of my projects are available at [https://nhiluu.vercel.app/](https://nhiluu.vercel.app/)
 
