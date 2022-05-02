@@ -8,7 +8,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/1wyGSnltzOEAAAAC/smirk-wink.gif">
 
-
 - 🔭 I’m currently working on: [Descriptive statistics on Biological dataset with R](https://github.com/PhyloGrok/AnalyzeBloodwork)
 
 - 🌱 I’m currently learning: **Python, R**
@@ -16,6 +15,8 @@
 - 👯 I’m looking to collaborate on: **Genomic sequencing; BLAST; Machine Learning model**
 
 - 👨‍💻 All of my projects are available at [https://nhiluu.vercel.app/](https://nhiluu.vercel.app/)
+
+- 📄 Know about my experiences: [Resume](https://nluu1.github.io/nluu1/)
 
 - 📫 How to reach me: **nluu1@umbc.edu**
 
