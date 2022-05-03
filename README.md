@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/1wyGSnltzOEAAAAC/smirk-wink.gif">
 
-- 👨‍💻 All of my projects are available at [https://nhiluu.vercel.app/](https://www.nhiluu.me/)
+- 👨‍💻 All of my projects are available at [nhiluu.me](https://www.nhiluu.me/)
 
 - 📄 Know about my experiences: [Resume](https://nluu1.github.io/nluu1/)
 
