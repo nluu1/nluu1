@@ -7,7 +7,11 @@
 <h3 align="center">"Like an ant, I'm stronger than I look and I can definitely get the job done!"</h3>
 
 
-- 🔭 I’m currently working on: [Descriptive statistics on Biological dataset with R](https://github.com/PhyloGrok/AnalyzeBloodwork)
+- 🔭 I’m currently working on: 
+
+  - [Descriptive statistics on Biological dataset with R](https://github.com/PhyloGrok/AnalyzeBloodwork)
+
+  - [Comprehensive guide on Novice EDA in R](https://www.kaggle.com/code/nhiluu/project-2-novice-eda-on-heart-disease-nl/notebook)
 
 - 🌱 I’m currently learning: **Python, R**
 
