@@ -7,7 +7,9 @@
 <h3 align="center">"Like an ant, I'm stronger than I look and I can definitely get the job done!"</h3>
 
 
-- 🔭 I’m currently working on: 
+- 🔭 I’m currently working on:
+ 
+  - [Udemy exercises](https://github.com/nluu1/Udemy-exercises.git) and walk-through in R and Python 
 
   - [Descriptive statistics on Biological dataset with R](https://github.com/PhyloGrok/AnalyzeBloodwork)
 
