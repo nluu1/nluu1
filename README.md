@@ -27,7 +27,7 @@
 
 - 📫 How to reach me: **nluu1@umbc.edu**
 
-- ⚡ Fun fact: **I'm 4'11 ft tall. So?**
+- ⚡ Fun fact: **me ish 4'11 ft lil bean**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
