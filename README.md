@@ -3,11 +3,14 @@
 </p>
 
 <h1 align="center">Hello 👋, I'm Nhi Luu</h1>
-<h3 align="center">Molecular Biology RA / Self-learning Bioinformatics</h3>
+<h3 align="center"> Phage Hunters / Research Assistant </h3>
+<h3 align="center"> Self-learning Bioinformatics</h3>
 <h3 align="center">"Like an ant, I'm stronger than I look and I can definitely get the job done!"</h3>
 
 
 - 🔭 I’m currently working on:
+
+  - Genomics Specilization (Coursera): currently at Python for Genomics
  
   - [Udemy exercises](https://github.com/nluu1/Udemy-exercises.git) and walk-through in R and Python 
 
@@ -27,7 +30,7 @@
 
 - 📫 How to reach me: **nluu1@umbc.edu**
 
-- ⚡ Fun fact: **me ish 4'11 ft lil bean**
+- ⚡ Fun fact: **4'11 ft lil bean**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
