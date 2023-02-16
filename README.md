@@ -10,9 +10,10 @@
 
 - 🔭 I’m currently working on:
 
-  - Genomics Specilization (Coursera): currently at Python for Genomics
- 
-  - [Udemy exercises](https://github.com/nluu1/Udemy-exercises.git) and walk-through in R and Python 
+  - ExtremeBiome Research Projects:
+    - Develop genomics tools and automate variant calling workflow on bacterial genomes (OmicsVMconfigure:
+https://doi.org/10.5281/zenodo.7641805 )
+    - Data analysis/visualiztion utilizing R/R-Shiny
 
   - [Descriptive statistics on Biological dataset with R](https://github.com/PhyloGrok/AnalyzeBloodwork)
 
@@ -20,7 +21,7 @@
 
 - 🌱 I’m currently learning: **Python, R**
 
-- 👯 I’m looking to collaborate on: **Genomic sequencing; BLAST; Machine Learning model**
+- 👯 I’m looking to collaborate on: **Machine Learning Model, Workflow Automation (CWL,NextFlow)**
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/1wyGSnltzOEAAAAC/smirk-wink.gif">
 
