@@ -11,8 +11,8 @@
 - 🔭 I’m currently working on:
 
   - ExtremeBiome Research Projects:
-    - Develop genomics tools and automate variant calling workflow on bacterial genomes (OmicsVMconfigure:
-https://doi.org/10.5281/zenodo.7641805 )
+    - Develop genomics tools and automate variant calling workflow on bacterial genomes 
+      - Ref: Robinson, JM, & Nhi Luu. (2023). PhyloGrok/OmicsVMconfigure: v0.2 (v0.2). Zenodo. https://doi.org/10.5281/zenodo.7641805
     - Data analysis/visualiztion utilizing R/R-Shiny
 
   - [Descriptive statistics on Biological dataset with R](https://github.com/PhyloGrok/AnalyzeBloodwork)
