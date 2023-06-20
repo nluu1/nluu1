@@ -15,14 +15,14 @@
       - Ref: Robinson, JM, & Nhi Luu. (2023). PhyloGrok/OmicsVMconfigure: v0.2 (v0.2). Zenodo. https://doi.org/10.5281/zenodo.7641805
     - Data analysis/visualiztion utilizing R/R-Shiny
   - Genomics Product Development
-    - Generate genomic pipelines dashboard for multi-department communications
+    - Generate genomic pipelines dashboard for multi-department communications (R/R-Shiny,AWS-EC2)
     - Improve bioinformatics workflows with updated assemblers and packages (Docker, Nextflow)
 
   - [Descriptive statistics on Biological dataset with R](https://github.com/PhyloGrok/AnalyzeBloodwork)
 
   - [Comprehensive guide on Novice EDA in R](https://www.kaggle.com/code/nhiluu/project-2-novice-eda-on-heart-disease-nl/notebook)
 
-- 🌱 I’m currently learning: **Python, R**
+- 🌱 I’m currently learning: **Python, R, & other Bioinformatics-related Tools**
 
 - 👯 I’m looking to collaborate on: **Machine Learning Model, Workflow Automation (CWL,NextFlow)**
 
