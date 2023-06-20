@@ -46,7 +46,8 @@
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-White.png" alt="rstudio" width="95" height="35"/> </p>
- <a href="http://www.clustal.org/clustal2/"> <img src="http://www.clustal.org/images/clustalw_title.png" alt="rstudio" width="40" height="40"/> </p>
+ <a href="http://www.clustal.org/clustal2/"> <img src="http://www.clustal.org/images/clustalw_title.png" alt="clustalx2" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/"> <img src="https://www.docker.com/wp-content/uploads/2022/01/Docker-Logo-White-RGB_Horizontal-730x189-1.png.webp" alt="docker" width="70" height="45"/> </a>
 
 
 <!-- Ref: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
