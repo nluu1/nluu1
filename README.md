@@ -4,13 +4,14 @@
 
 <h1 align="center">Hello 👋, I'm Nhi Luu</h1>
 <h3 align="center"> Genomics Product Development Intern / Research Assistant </h3>
-<h3 align="center"> Self-learning Bioinformatics</h3>
+<!-- <h3 align="center"> Self-learning Bioinformatics</h3> -->
 <h3 align="center">"Like an ant, I'm stronger than I look and I can definitely get the job done!"</h3>
 
 
 - 🔭 I’m currently working on:
 
   - ExtremeBiome Research Projects:
+    - Pending publication on Non-Neutral Theory of Evolution: Radiation Resistance & Mutation Rates of Extremophiles
     - Develop genomics tools and automate variant calling workflow on bacterial genomes 
       - Ref: Robinson, JM, & Nhi Luu. (2023). PhyloGrok/OmicsVMconfigure: v0.2 (v0.2). Zenodo. https://doi.org/10.5281/zenodo.7641805
     - Data analysis/visualiztion utilizing R/R-Shiny
